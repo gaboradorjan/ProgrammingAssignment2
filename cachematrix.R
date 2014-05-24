@@ -1,4 +1,4 @@
-## There are 2 main funkcitons in this file. The first (makecachematrix) stores 
+## There are 2 main functions in this file. The first (makecachematrix) stores 
 ## the inverse of a matrix in cache. The second (cacheSolve) determines if the inverse
 ## of the Matrix is already calculated, if yes then returns it from cache else it calculates
 ## and caches it
